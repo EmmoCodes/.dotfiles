@@ -2,7 +2,7 @@
         "layer": "top",
         "position": "top",
         "reload_style_on_change": true,
-        "modules-left": ["cpu","temperature","memory","bluetooth","network"],
+        "modules-left": ["cpu","temperature","memory","bluetooth","network","idle_inhibitor"],
         "modules-center": ["hyprland/workspaces"],
         "modules-right": ["clock","battery","custom/notification"],
 
@@ -128,5 +128,15 @@
             "icon-size": 14,
             "spacing": 10
         },
+"idle_inhibitor": {
+	"tooltip": true,
+	"tooltip-format-activated": "Idle_inhibitor active",
+	"tooltip-format-deactivated": "Idle_inhibitor not active",
+	"format": "{icon}",
+	"format-icons": {
+		"activated": " ",
+		"deactivated": " ",
+	}
+},
 } 
 
