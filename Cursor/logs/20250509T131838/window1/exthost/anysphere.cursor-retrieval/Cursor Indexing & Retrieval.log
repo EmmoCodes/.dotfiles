@@ -1,0 +1,20 @@
+2025-05-09 13:18:43.914 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-05-09 13:18:43.914 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-05-09 13:18:43.914 [error] Git command failed: git config --get remote.origin.url Command failed: git config --get remote.origin.url
+
+2025-05-09 13:18:43.914 [error] Error getting repo info: Command failed: git config --get remote.origin.url
+
+2025-05-09 13:18:43.914 [error] Error: Command failed: git config --get remote.origin.url
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:518:28)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-05-09 13:18:44.113 [error] NoWorkspaceUriError
+2025-05-09 13:18:45.268 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-05-09 13:18:45.268 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-05-09 13:18:45.269 [error] NoWorkspaceUriError

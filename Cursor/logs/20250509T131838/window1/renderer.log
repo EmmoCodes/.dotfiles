@@ -1,0 +1,27 @@
+2025-05-09 13:18:40.888 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-09 13:18:40.888 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-09 13:18:40.889 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-09 13:18:40.889 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-09 13:18:40.889 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-09 13:18:40.889 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-09 13:18:40.890 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-09 13:18:40.890 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-09 13:18:40.890 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-09 13:18:40.890 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'anysphere.remote-wsl' wants API proposal 'cursorTracing' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-09 13:18:40.891 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'anysphere.remote-ssh' wants API proposal 'cursorTracing' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-09 13:18:40.891 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'anysphere.remote-containers' wants API proposal 'cursorTracing' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-09 13:18:40.891 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'anysphere.remote-tunnels' wants API proposal 'cursorTracing' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-09 13:18:40.891 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'anysphere.cpptools' wants API proposal 'cursorTracing' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-09 13:18:40.892 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'anysphere.cursorpyright' wants API proposal 'cursorTracing' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-09 13:18:40.934 [warning] Missing property "modes" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-05-09 13:18:40.934 [warning] Missing property "modes2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-05-09 13:18:40.935 [warning] Missing property "modes3" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-05-09 13:18:40.935 [warning] Missing property "explicitEnableOrDisable" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-05-09 13:18:40.935 [warning] Missing property "lastBackgroundBugbotAt" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-05-09 13:18:41.321 [info] Started local extension host with pid 15211.
+2025-05-09 13:18:42.877 [error] [Extension Host] (node:15211) ExperimentalWarning: Use `importAttributes` instead of `importAssertions`
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2025-05-09 13:18:43.720 [error] Bundled Anysphere extension 'anysphere.remote-ssh' not found
+2025-05-09 13:18:43.720 [error] Bundled Anysphere extension 'anysphere.remote-wsl' not found
+2025-05-09 13:18:43.720 [error] Bundled Anysphere extension 'anysphere.remote-containers' not found
+2025-05-09 13:18:44.904 [info] [perf] Render performance baseline is 25ms

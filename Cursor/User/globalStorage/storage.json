@@ -1,0 +1,63 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "ba533affd63b666af8ee103a579865d5e1c20167e5d741d3a48f07b64a136663",
+    "telemetry.macMachineId": "77fa99a485f2f0cba5969dae5ad387efff89c4c77293c5b4c731b527d0b55ea3",
+    "telemetry.devDeviceId": "f3a5a7c2-8d27-4a10-b86b-2b04f52dbec5",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1746789339086"
+            }
+        ]
+    },
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1746789339086": "__default__profile__"
+        }
+    },
+    "windowControlHeight": 35,
+    "theme": "vs-dark",
+    "themeBackground": "#1a1a1a",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "rgba(204, 204, 204, 0.87)",
+            "background": "#1a1a1a",
+            "editorBackground": "#1a1a1a",
+            "titleBarBackground": "#141414",
+            "titleBarBorder": "rgba(255, 255, 255, 0.05)",
+            "activityBarBackground": "#141414",
+            "sideBarBackground": "#141414",
+            "sideBarBorder": "rgba(255, 255, 255, 0.05)",
+            "statusBarBackground": "#141414",
+            "statusBarBorder": "rgba(255, 255, 255, 0.05)",
+            "statusBarNoFolderBackground": "#141414"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/emmocodes/.config/Cursor/Backups/1746789339086",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 960,
+                "height": 1026
+            }
+        },
+        "openedWindows": []
+    }
+}

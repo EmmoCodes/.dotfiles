@@ -1,0 +1,43 @@
+2025-05-09 13:15:57.477 [info] Extension host with pid 13946 started
+2025-05-09 13:15:57.517 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-09 13:15:57.541 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-09 13:15:57.666 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-09 13:15:57.815 [info] Eager extensions activated
+2025-05-09 13:15:57.831 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-05-09 13:15:58.060 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-05-09 13:15:58.364 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-05-09 13:15:58.466 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-05-09 13:15:58.693 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-09 13:15:58.700 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-09 13:15:58.751 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-09 13:15:58.774 [error] ProxyResolver#addCertificatesV1 Canceled: Canceled
+	at new aEt (file:///tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:111661)
+	at IK.U (file:///tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116296)
+	at n.<computed>.a.charCodeAt.n.<computed> (file:///tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113788)
+	at $a.loadCertificates (file:///tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:275400)
+	at Object.loadAdditionalCertificates (file:///tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:179:18757)
+	at /tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:697:53
+	at Generator.next (<anonymous>)
+	at /tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:35:71
+	at new Promise (<anonymous>)
+	at __awaiter (/tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:31:12)
+	at /tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:696:43
+	at /tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:698:16
+	at Generator.next (<anonymous>)
+	at /tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:35:71
+	at new Promise (<anonymous>)
+	at __awaiter (/tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:31:12)
+	at getOrLoadAdditionalCertificates (/tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:694:12)
+	at addCertificatesToOptionsV1 (/tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:673:9)
+	at resolveProxyWithRequest (/tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:114:9)
+	at /tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:346:77
+	at new Promise (<anonymous>)
+	at PacProxyAgent.resolveP [as resolver] (/tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/index.js:346:54)
+	at PacProxyAgent.<anonymous> (/tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:74:37)
+	at Generator.next (<anonymous>)
+	at /tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:8:71
+	at new Promise (<anonymous>)
+	at __awaiter (/tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:4:12)
+	at PacProxyAgent.connect (/tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:56:16)
+	at /tmp/.mount_CursorQ8uVBT/usr/share/cursor/resources/app/node_modules/agent-base/dist/index.js:73:30
+2025-05-09 13:15:58.775 [info] Extension host with pid 13946 exiting with code 0
