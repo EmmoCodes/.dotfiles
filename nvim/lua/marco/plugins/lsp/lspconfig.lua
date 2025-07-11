@@ -59,9 +59,9 @@ return {
 			settings = {
 				gopls = {
 					["ui.inlayhint.hints"] = {
-						compositeLiteralFields = true,
-						constantValues = true,
-						parameterNames = true,
+						compositeLiteralFields = false,
+						constantValues = false,
+						parameterNames = false,
 					},
 				},
 			},
