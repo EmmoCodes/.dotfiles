@@ -93,6 +93,7 @@ plasma-org.kde.plasma.desktop-appletsrc
 plasma-welcomerc
 plasmanotifyrc
 plasmaparc
+htop
 plasmarc
 plasmashellrc
 powerdevilrc
@@ -106,3 +107,7 @@ kdeglobals
 kwinoutputconfig.json
 .zshrc
 goose
+Goose
+ags
+nvim_old
+xarchiver
