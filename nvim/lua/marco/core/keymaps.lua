@@ -5,7 +5,7 @@ local keymap = vim.keymap -- for conciseness
 
 ---------------------
 -- General Keymaps -------------------
-keymap.set("n", "<Leader>r", ":!go run .<CR>", { noremap = true, silent = true, desc = "Run go file" })
+keymap.set("n", "<Leader>r", ":!go run .<CR>", { noremap = true, silent = true, desc = "Run go file." })
 -- use jk to exit insert mode
 keymap.set("i", "jk", "<ESC>", { desc = "Exit insert mode with jk" })
 

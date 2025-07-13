@@ -1,0 +1,148 @@
+[2025-07-11 12:40:51.877] [info]  Skipping zsh environment loading: Not running on macOS
+[2025-07-11 12:40:51.881] [info]  Skipping zsh environment loading: Not running on macOS
+[2025-07-11 12:40:51.881] [info]  Skipping zsh environment loading: Not running on macOS
+[2025-07-11 12:40:51.968] [info]  Registering update IPC handlers...
+[2025-07-11 12:40:51.982] [info]  Found available port: 32945
+[2025-07-11 12:40:51.982] [info]  Starting goosed from: /usr/lib/goose-desktop/resources/bin/goosed on port 32945 in dir /home/emmocodes
+[2025-07-11 12:40:51.983] [info]  Process platform: linux
+[2025-07-11 12:40:51.983] [info]  Process cwd: /home/emmocodes
+[2025-07-11 12:40:51.983] [info]  Target working directory: /home/emmocodes
+[2025-07-11 12:40:51.983] [info]  Environment HOME: /home/emmocodes
+[2025-07-11 12:40:51.983] [info]  Environment USERPROFILE: /home/emmocodes
+[2025-07-11 12:40:51.983] [info]  Environment APPDATA: /home/emmocodes/AppData/Roaming
+[2025-07-11 12:40:51.983] [info]  Environment LOCALAPPDATA: /home/emmocodes/AppData/Local
+[2025-07-11 12:40:51.983] [info]  Environment PATH: /usr/lib/goose-desktop/resources/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/var/lib/flatpak/exports/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+[2025-07-11 12:40:51.983] [info]  Binary path resolved to: /usr/lib/goose-desktop/resources/bin/goosed
+[2025-07-11 12:40:51.983] [info]  Binary exists and is a regular file: true
+[2025-07-11 12:40:51.984] [info]  Spawn options: {
+  "cwd": "/home/emmocodes",
+  "env": {
+    "SHELL": "/usr/bin/zsh",
+    "HYPRLAND_CMD": "Hyprland",
+    "XDG_SESSION_PATH": "/org/freedesktop/DisplayManager/Session1",
+    "XDG_BACKEND": "wayland",
+    "CLUTTER_BACKEND": "wayland",
+    "QT_WAYLAND_DISABLE_WINDOWDECORATION": "1",
+    "DESKTOP_SESSION": "hyprland",
+    "ELECTRON_OZONE_PLATFORM_HINT": "auto",
+    "XDG_SEAT": "seat0",
+    "PWD": "/home/emmocodes",
+    "XDG_SESSION_DESKTOP": "Hyprland",
+    "LOGNAME": "emmocodes",
+    "QT_QPA_PLATFORMTHEME": "qt6ct",
+    "XDG_SESSION_TYPE": "wayland",
+    "_": "/usr/bin/rofi",
+    "MOTD_SHOWN": "pam",
+    "HOME": "/home/emmocodes",
+    "LANG": "en_US.UTF-8",
+    "_JAVA_AWT_WM_NONREPARENTING": "1",
+    "XDG_CURRENT_DESKTOP": "Hyprland",
+    "WAYLAND_DISPLAY": "wayland-1",
+    "QT_QUICK_CONTROLS_STYLE": "org.hyprland.style",
+    "XDG_SEAT_PATH": "/org/freedesktop/DisplayManager/Seat0",
+    "QT_QPA_PLATFORM": "wayland;xcb",
+    "XDG_SESSION_CLASS": "user",
+    "USER": "emmocodes",
+    "PAM_KWALLET5_LOGIN": "/run/user/1000/kwallet5.socket",
+    "HYPRLAND_INSTANCE_SIGNATURE": "9958d297641b5c84dcff93f9039d80a5ad37ab00_1752217857_1437305429",
+    "DISPLAY": ":1",
+    "SHLVL": "0",
+    "MOZ_ENABLE_WAYLAND": "1",
+    "XDG_VTNR": "1",
+    "XDG_SESSION_ID": "2",
+    "XDG_RUNTIME_DIR": "/run/user/1000",
+    "DEBUGINFOD_URLS": "https://debuginfod.archlinux.org ",
+    "HYPRCURSOR_THEME": "Bibata-Modern-Ice",
+    "QT_AUTO_SCREEN_SCALE_FACTOR": "1",
+    "XDG_DATA_DIRS": "/home/emmocodes/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share",
+    "GDK_BACKEND": "wayland",
+    "PATH": "/usr/lib/goose-desktop/resources/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/var/lib/flatpak/exports/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl",
+    "GDK_SCALE": "1",
+    "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
+    "HG": "/usr/bin/hg",
+    "MAIL": "/var/spool/mail/emmocodes",
+    "QT_SCALE_FACTOR": "1",
+    "OLDPWD": "/home/emmocodes",
+    "HYPRCURSOR_SIZE": "24",
+    "CHROME_DESKTOP": "Goose.desktop",
+    "ORIGINAL_XDG_CURRENT_DESKTOP": "Hyprland",
+    "GOOSE_SERVER__SECRET_KEY": "[REDACTED]",
+    "NO_AT_BRIDGE": "1",
+    "GOOSE_SCHEDULER_TYPE": "legacy",
+    "USERPROFILE": "/home/emmocodes",
+    "APPDATA": "/home/emmocodes/AppData/Roaming",
+    "LOCALAPPDATA": "/home/emmocodes/AppData/Local",
+    "GOOSE_PORT": "32945"
+  },
+  "stdio": [
+    "ignore",
+    "pipe",
+    "pipe"
+  ],
+  "windowsHide": true,
+  "detached": false,
+  "shell": false
+}
+[2025-07-11 12:40:51.989] [info]  Using 80 max attempts (temporal scheduling: disabled)
+[2025-07-11 12:40:51.989] [info]  Checking server status at http://127.0.0.1:32945/status
+[2025-07-11 12:40:52.060] [info]  goosed stdout for port 32945 and dir /home/emmocodes:   [2m2025-07-11T10:40:51.994909Z[0m [32m INFO[0m [1;32mgoosed::commands::agent[0m[32m: [32mInitializing pricing cache...[0m
+    [2;3mat[0m crates/goose-server/src/commands/agent.rs:22
+
+  [2m2025-07-11T10:40:51.994956Z[0m [32m INFO[0m [1;32mgoose::providers::pricing[0m[32m: [32mFetching pricing data from OpenRouter API[0m
+    [2;3mat[0m crates/goose/src/providers/pricing.rs:220
+
+
+[2025-07-11 12:40:52.246] [info]  goosed stdout for port 32945 and dir /home/emmocodes:   [2m2025-07-11T10:40:52.246233Z[0m [32m INFO[0m [1;32mgoose::scheduler_factory[0m[32m: [32mCreating legacy scheduler[0m
+    [2;3mat[0m crates/goose/src/scheduler_factory.rs:60
+
+
+[2025-07-11 12:40:52.247] [info]  goosed stdout for port 32945 and dir /home/emmocodes:   [2m2025-07-11T10:40:52.247352Z[0m [32m INFO[0m [1;32mgoosed::commands::agent[0m[32m: [32mlistening on 127.0.0.1:32945[0m
+    [2;3mat[0m crates/goose-server/src/commands/agent.rs:56
+
+
+[2025-07-11 12:40:52.290] [info]  Server is ready after 3 attempts
+[2025-07-11 12:40:52.290] [info]  Goosed isReady true
+[2025-07-11 12:40:52.291] [info]  Goosed server successfully started on port 32945
+[2025-07-11 12:40:52.808] [error] goosed stderr for port 32945 and dir /home/emmocodes: 
+thread 'tokio-runtime-worker' panicked at crates/goose-server/src/routes/agent.rs:222:64:
+called `Result::unwrap()` on an `Err` value: Failed to access keyring: Platform secure storage failure: DBus error: The name is not activatable
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+[2025-07-11 12:40:52.809] [error] goosed stderr for port 32945 and dir /home/emmocodes: 
+thread 'tokio-runtime-worker' panicked at crates/goose-server/src/routes/agent.rs:222:64:
+called `Result::unwrap()` on an `Err` value: Failed to access keyring: Platform secure storage failure: DBus error: The name is not activatable
+
+[2025-07-11 12:40:52.810] [error] goosed stderr for port 32945 and dir /home/emmocodes: 
+thread 'tokio-runtime-worker' panicked at crates/goose-server/src/routes/agent.rs:222:64:
+called `Result::unwrap()` on an `Err` value: Failed to access keyring: Platform secure storage failure: DBus error: The name is not activatable
+
+[2025-07-11 12:40:52.811] [error] goosed stderr for port 32945 and dir /home/emmocodes: 
+thread 'tokio-runtime-worker' panicked at crates/goose-server/src/routes/agent.rs:222:64:
+called `Result::unwrap()` on an `Err` value: Failed to access keyring: Platform secure storage failure: DBus error: The name is not activatable
+
+[2025-07-11 12:40:52.858] [info]  from renderer: Initial messages when resuming session: []
+[2025-07-11 12:40:54.331] [info]  Setting up auto-updater after window creation...
+[2025-07-11 12:40:54.333] [info]  Setting up auto-updater...
+[2025-07-11 12:40:54.333] [info]  Current app version: 1.0.35
+[2025-07-11 12:40:54.333] [info]  Platform: linux, Arch: x64
+[2025-07-11 12:40:54.333] [info]  NODE_ENV: undefined
+[2025-07-11 12:40:54.334] [info]  ENABLE_DEV_UPDATES: undefined
+[2025-07-11 12:40:54.334] [info]  App is packaged: true
+[2025-07-11 12:40:54.334] [info]  App path: /usr/lib/goose-desktop/resources/app.asar
+[2025-07-11 12:40:54.334] [info]  Resources path: /usr/lib/goose-desktop/resources
+[2025-07-11 12:40:54.334] [info]  Setting feed URL with config: {
+  provider: 'github',
+  owner: 'block',
+  repo: 'goose',
+  releaseType: 'release'
+}
+[2025-07-11 12:40:54.338] [info]  Feed URL set to: Deprecated. Do not use it.
+[2025-07-11 12:40:54.338] [info]  App is packaged - this is a release build
+[2025-07-11 12:40:54.338] [info]  Auto-updater channel: null
+[2025-07-11 12:40:54.338] [info]  Auto-updater allowPrerelease: false
+[2025-07-11 12:40:54.338] [info]  Auto-updater allowDowngrade: false
+[2025-07-11 12:40:54.339] [info]  Auto-updater setup completed
+[2025-07-11 12:40:59.342] [info]  Checking for updates on startup...
+[2025-07-11 12:40:59.343] [info]  autoUpdater.currentVersion: {"options":{},"loose":false,"includePrerelease":false,"raw":"1.0.35","major":1,"minor":0,"patch":35,"prerelease":[],"build":[],"version":"1.0.35"}
+[2025-07-11 12:40:59.343] [info]  autoUpdater.getFeedURL(): Deprecated. Do not use it.
+[2025-07-11 12:40:59.343] [warn]  APPIMAGE env is not defined, current application is not an AppImage
