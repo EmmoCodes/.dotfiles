@@ -22,5 +22,6 @@ require("lazy").setup({ { import = "marco.plugins" }, { import = "marco.plugins.
 	defaults = {
 		-- Keine Hinweise zu überlappenden Keymaps
 		keymap = { warn_on_override = false },
+		-- lazy = true,
 	},
 })
